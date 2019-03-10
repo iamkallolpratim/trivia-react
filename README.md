@@ -1,8 +1,8 @@
-###Bank Of Holder-Task
+### Bank Of Holder-Task
 
 A trivia game made using opentdb api
 
-###How to run 
+### How to run 
 1. cllone the repo `git clone git@github.com:iamkallolpratim/trivia-react.git`
 
 2. `cd trivia-react` and run `npm install`.
