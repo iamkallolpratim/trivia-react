@@ -84,9 +84,7 @@ class Quiz extends Component {
                 }
                 { canProceed && <button style={{marginTop:'1em'}}  className='btn btn-secondary btn-block' onClick={this._nextQuestion}>Next Question</button> }
 
-                {
-                    currentQuestion === 9 && <button onClick={this._restartGame} style={{marginTop:'1em'}} className="btn btn-success btn-block">RESTART</button>
-                }
+                
                 
                 </div>
                 </div>
